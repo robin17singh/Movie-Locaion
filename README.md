@@ -5,7 +5,7 @@ MovieLocation is a website where users can create and review movie locations. In
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.  
 
 ## Features
-* Users can create, edit, and remove campgrounds
+* Users can create, edit, and remove locations
 * Users can review location once, and edit or remove their review
 * User profiles include more information on the user (full name, email, phone, join date), their locations, and the option to edit their profile or delete their account
 * Search movie location by name or location
