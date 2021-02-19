@@ -11,6 +11,13 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 * Search movie location by name or location
 * Sort location by highest rating, most reviewed, lowest price, or highest price
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/17989060/108547832-ff032800-7310-11eb-8122-11c737046b13.png)
+
+![image](https://user-images.githubusercontent.com/17989060/108548147-6ae59080-7311-11eb-8de6-87d399c2966c.png)
+
+![image](https://user-images.githubusercontent.com/17989060/108548221-8a7cb900-7311-11eb-812c-e8eb9cb5a44b.png)
+
 ## Run it locally
 1. Install [mongodb](https://www.mongodb.com/)
 2. Create a cloudinary account to get an API key and secret code
